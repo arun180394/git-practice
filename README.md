@@ -1,6 +1,6 @@
 # git-practice
 
-## 1. Question 1: Please write a Python script that:
+## 1. Please write a Python script that:
 - Written python script that reads the url and generated the o/p in desired format. Please run the [first point script](https://github.com/arun180394/git-practice/blob/master/first_point.py).
 
 ## 2. Reads the JSON located at [URL](https://data.cityofnewyork.us/api/views/25th-nujf/rows.json)
@@ -16,3 +16,10 @@
 
 ### 5. Filters the aforementioned data to only the years 2012-2014, then groups by "Child's First Name" and "Ethnicity", and finally provides the sum of "Count" for each combination.
 - Gone through the whole JSON data in that link, There is no years data at all. Can you please explain this with one example, How to map this data. 
+
+### 6. Writes the resulting data to both JSON and CSV.
+- Converted the Json data to csv in possible places.
+
+## 7. Git Practice
+
+- Practiced the Git as per your [README](https://github.com/DrumMachineLearning/git-practice/blob/master/README.md)
